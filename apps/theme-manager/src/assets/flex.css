@@ -1,0 +1,39 @@
+.d-flex {
+  display: flex;
+}
+.flex-column {
+  flex-direction: column;
+}
+.align-items-center {
+  /* align-items: start; */
+  align-items: center;
+}
+.align-items-start {
+  align-items: start;
+}
+.align-items-end {
+  align-items: end;
+}
+.pa-4 {
+  padding: 40px;
+}
+.pt-4 {
+  padding-top: 40px;
+}
+.pb-4 {
+  padding-bottom: 40px;
+}
+.pr-4 {
+  padding-right: 40px;
+}
+.pl-4 {
+  padding-left: 40px;
+}
+.px-4 {
+  padding-right: 40px;
+  padding-left: 40px;
+}
+.py-4 {
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
