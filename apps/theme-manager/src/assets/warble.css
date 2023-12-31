@@ -1,0 +1,9 @@
+.warble > header {
+  /* border && shading  */
+  border-bottom: solid 4px;
+  box-shadow: 4px 4px 4px;
+} 
+.warble > .menu {
+  box-shadow: 4px 2px 4px;
+  border-right: solid 5px;
+ } 
