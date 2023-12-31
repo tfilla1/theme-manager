@@ -1,4 +1,5 @@
 import { createRouter, createWebHistory } from 'vue-router'
+
 import rummyView from '@/components/rummyView.vue'
 import eightsView from '@/components/eightsView.vue'
 import warView from '@/components/warView.vue'
